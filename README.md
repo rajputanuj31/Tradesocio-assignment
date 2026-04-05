@@ -100,6 +100,3 @@ PRICE AAPL 103
 PRINT PNL
 QUIT
 ```
-# Tradesocio-assignment
-# Tradesocio-assignment
-# Tradesocio-assignment
